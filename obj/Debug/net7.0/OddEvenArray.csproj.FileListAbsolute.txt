@@ -1,0 +1,15 @@
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-9\OddEvenArray\bin\Debug\net7.0\OddEvenArray.exe
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-9\OddEvenArray\bin\Debug\net7.0\OddEvenArray.deps.json
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-9\OddEvenArray\bin\Debug\net7.0\OddEvenArray.runtimeconfig.json
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-9\OddEvenArray\bin\Debug\net7.0\OddEvenArray.dll
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-9\OddEvenArray\bin\Debug\net7.0\OddEvenArray.pdb
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-9\OddEvenArray\obj\Debug\net7.0\OddEvenArray.csproj.AssemblyReference.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-9\OddEvenArray\obj\Debug\net7.0\OddEvenArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-9\OddEvenArray\obj\Debug\net7.0\OddEvenArray.AssemblyInfoInputs.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-9\OddEvenArray\obj\Debug\net7.0\OddEvenArray.AssemblyInfo.cs
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-9\OddEvenArray\obj\Debug\net7.0\OddEvenArray.csproj.CoreCompileInputs.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-9\OddEvenArray\obj\Debug\net7.0\OddEvenArray.dll
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-9\OddEvenArray\obj\Debug\net7.0\refint\OddEvenArray.dll
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-9\OddEvenArray\obj\Debug\net7.0\OddEvenArray.pdb
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-9\OddEvenArray\obj\Debug\net7.0\OddEvenArray.genruntimeconfig.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-4\ejercicio-9\OddEvenArray\obj\Debug\net7.0\ref\OddEvenArray.dll
